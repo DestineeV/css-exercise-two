@@ -2,12 +2,14 @@ body {
   background-color: #ffffff;
   color: #000000;
   font-size: 16px;
-  text-decoration: none;
   background-image: #fff url(images/bloc-logo.png) no-repeat top center;
   line-height: 2em;
   active: color:#0070BD;
 }
 
+a {
+  text-decoration: none;
+}
 
 h1 {
   font-size: 2em;
